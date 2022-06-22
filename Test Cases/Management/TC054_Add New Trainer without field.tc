@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC054_Add New Trainer without field</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d40f687d-8503-4e52-b281-38ffb1de7b42</testCaseGuid>
+</TestCaseEntity>

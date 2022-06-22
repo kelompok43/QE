@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC064_Add Training Schedule without start time</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e8c9701a-3c5a-43e2-b16d-d94ac3727642</testCaseGuid>
+</TestCaseEntity>

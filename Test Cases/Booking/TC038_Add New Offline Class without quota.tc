@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC038_Add New Offline Class without quota</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>c178e80d-0981-4b38-abb0-397ccb702101</testCaseGuid>
+</TestCaseEntity>

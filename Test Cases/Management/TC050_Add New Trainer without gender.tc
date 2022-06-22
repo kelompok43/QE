@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC050_Add New Trainer without gender</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6f946515-1c28-45eb-9f1e-e8cd003a0333</testCaseGuid>
+</TestCaseEntity>
