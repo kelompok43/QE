@@ -17,27 +17,47 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Booking/Offline/Add/data kelas'))
+WebUI.click(findTestObject('Booking/Offline/Add/Data Kelas'))
 
-WebUI.click(findTestObject('Booking/Offline/Add/kelas offline'))
+WebUI.click(findTestObject('Booking/Offline/Add/Offline Class'))
 
-WebUI.click(findTestObject('Booking/Offline/Add/add kelas button'))
+WebUI.click(findTestObject('Booking/Offline/Add/Add Class'))
 
-WebUI.setText(findTestObject('Booking/Offline/Add/nama kelas'), 'yoga')
+WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/tambahKelasOffline')
 
-WebUI.click(findTestObject('Booking/Offline/Add/tgl'))
+WebUI.setText(findTestObject('Booking/Offline/Add/Class Name'), 'Yoga')
 
-WebUI.setText(findTestObject('Booking/Offline/Add/jam mulai'), '1pm')
+WebUI.setText(findTestObject('Booking/Offline/Add/Date'), '12122022')
 
-WebUI.setText(findTestObject('Booking/Offline/Add/jam selesai'), '2pm')
+WebUI.click(findTestObject('Booking/Offline/Add/Start Time'))
 
-WebUI.setText(findTestObject('Booking/Offline/Add/kuota kelas'), '20')
+WebUI.click(findTestObject('Booking/Offline/Add/Start 12'))
 
-WebUI.click(findTestObject('Booking/Offline/Add/pelatih'))
+WebUI.click(findTestObject('Booking/Offline/Add/Start 00'))
 
-WebUI.setText(findTestObject('Booking/Offline/Add/deskripsi'), 'kelas yoga')
+WebUI.click(findTestObject('Booking/Offline/Add/Start PM'))
 
-WebUI.click(findTestObject('Booking/Offline/Add/save button'))
+WebUI.click(findTestObject('Booking/Offline/Add/Start OK'))
 
-WebUI.click(findTestObject('Booking/Offline/Add/ya button'))
+WebUI.click(findTestObject('Booking/Offline/Add/End Time'))
+
+WebUI.click(findTestObject('Booking/Offline/Add/End PM'))
+
+WebUI.click(findTestObject('Booking/Offline/Add/End 1'))
+
+WebUI.click(findTestObject('Booking/Offline/Add/End 00'))
+
+WebUI.click(findTestObject('Booking/Offline/Add/End OK'))
+
+WebUI.setText(findTestObject('Booking/Offline/Add/Quota'), '20')
+
+WebUI.click(findTestObject('Booking/Offline/Add/Trainer'))
+
+WebUI.click(findTestObject('Booking/Offline/Add/Peter'))
+
+WebUI.setText(findTestObject('Booking/Offline/Add/Description'), 'ini adalah kelas yoga offline')
+
+WebUI.click(findTestObject('Booking/Offline/Add/Save Button'))
+
+WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/DataKelasOffline')
 

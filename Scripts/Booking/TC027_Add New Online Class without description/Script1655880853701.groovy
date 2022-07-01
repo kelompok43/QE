@@ -17,23 +17,23 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Booking/Online/Add/data kelas'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Booking/Online/Add/kelas online'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Booking/Online/Add/nama kelas'), 'yoga')
+WebUI.setText(findTestObject('null'), 'yoga')
 
-WebUI.click(findTestObject('Booking/Online/Add/tgl'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Booking/Online/Add/jam mulai'), '1pm')
+WebUI.setText(findTestObject('null'), '1pm')
 
-WebUI.setText(findTestObject('Booking/Online/Add/jam selesai'), '2pm')
+WebUI.setText(findTestObject('null'), '2pm')
 
-WebUI.click(findTestObject('Booking/Online/Add/pelatih'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Booking/Online/Add/virtual meeting'), 'https')
+WebUI.setText(findTestObject('null'), 'https')
 
-WebUI.click(findTestObject('Booking/Online/Add/save button'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Booking/Online/Add/ya button'))
+WebUI.click(findTestObject('null'))
 

@@ -17,11 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Booking/Online/Add/data kelas'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Booking/Online/Add/kelas online'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Booking/Online/Add/save button'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Booking/Online/Add/ya button'))
+WebUI.click(findTestObject('null'))
 

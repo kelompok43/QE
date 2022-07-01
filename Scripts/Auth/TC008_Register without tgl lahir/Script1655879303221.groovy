@@ -17,21 +17,21 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Auth/Register/data admin'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Auth/Register/add admin'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Auth/Register/nama lengkap'), 'alif')
+WebUI.setText(findTestObject('null'), 'alif')
 
-WebUI.click(findTestObject('Auth/Register/JK'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Auth/Register/alamat'), 'Malang')
+WebUI.setText(findTestObject('null'), 'Malang')
 
-WebUI.click(findTestObject('Auth/Register/role'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Auth/Register/email'), 'alif@gmail.com')
+WebUI.setText(findTestObject('null'), 'alif@gmail.com')
 
-WebUI.setText(findTestObject('Auth/Register/password'), 'alif123')
+WebUI.setText(findTestObject('null'), 'alif123')
 
-WebUI.click(findTestObject('Auth/Register/save button'))
+WebUI.click(findTestObject('null'))
 

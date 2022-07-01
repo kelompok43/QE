@@ -17,23 +17,31 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Auth/Register/data admin'))
+WebUI.click(findTestObject('Auth/Register/Data Admin'))
 
-WebUI.click(findTestObject('Auth/Register/add admin'))
+WebUI.click(findTestObject('Auth/Register/Add Admin'))
 
-WebUI.setText(findTestObject('Auth/Register/nama lengkap'), 'alif')
+WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/registrasi')
 
-WebUI.click(findTestObject('Auth/Register/tgl lahir'))
+WebUI.setText(findTestObject('Auth/Register/Name'), 'alif')
 
-WebUI.click(findTestObject('Auth/Register/JK'))
+WebUI.setText(findTestObject('Auth/Register/DoB'), '662006')
 
-WebUI.setText(findTestObject('Auth/Register/alamat'), 'Malang')
+WebUI.click(findTestObject('Auth/Register/Gender'))
 
-WebUI.click(findTestObject('Auth/Register/role'))
+WebUI.setText(findTestObject('Auth/Register/Address'), 'Malang')
 
-WebUI.setText(findTestObject('Auth/Register/email'), 'alif@gmail.com')
+WebUI.click(findTestObject('Auth/Register/Role'))
 
-WebUI.setText(findTestObject('Auth/Register/password'), 'alif123')
+WebUI.click(findTestObject('Auth/Register/Admin Operasional'))
 
-WebUI.click(findTestObject('Auth/Register/save button'))
+WebUI.setText(findTestObject('Auth/Register/Email'), 'alif@gmail.com')
+
+WebUI.setText(findTestObject('Auth/Register/Password'), 'alif123')
+
+WebUI.click(findTestObject('Auth/Register/Save Button'))
+
+WebUI.click(findTestObject('Auth/Register/Ya Button'))
+
+WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/DataAdmin')
 

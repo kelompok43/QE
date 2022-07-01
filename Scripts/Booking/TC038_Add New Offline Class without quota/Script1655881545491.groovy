@@ -17,27 +17,27 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Booking/Offline/Add/data kelas'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Booking/Offline/Add/kelas offline'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Booking/Offline/Add/add kelas button'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Booking/Offline/Add/nama kelas'), 'yoga')
+WebUI.setText(findTestObject('null'), 'yoga')
 
-WebUI.click(findTestObject('Booking/Offline/Add/tgl'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Booking/Offline/Add/jam mulai'), '1pm')
+WebUI.setText(findTestObject('null'), '1pm')
 
-WebUI.setText(findTestObject('Booking/Offline/Add/jam selesai'), '2pm')
+WebUI.setText(findTestObject('null'), '2pm')
 
-WebUI.setText(findTestObject('Booking/Offline/Add/kuota kelas'), '20')
+WebUI.setText(findTestObject('null'), '20')
 
-WebUI.click(findTestObject('Booking/Offline/Add/pelatih'))
+WebUI.click(findTestObject('null'))
 
-WebUI.setText(findTestObject('Booking/Offline/Add/deskripsi'), 'kelas yoga')
+WebUI.setText(findTestObject('null'), 'kelas yoga')
 
-WebUI.click(findTestObject('Booking/Offline/Add/save button'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Booking/Offline/Add/ya button'))
+WebUI.click(findTestObject('null'))
 

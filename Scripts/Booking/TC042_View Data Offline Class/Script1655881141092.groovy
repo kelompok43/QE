@@ -17,11 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Booking/Offline/View/data kelas'))
+WebUI.click(findTestObject('Booking/Offline/View/Next'))
 
-WebUI.click(findTestObject('Booking/Offline/View/kelas offline'))
+WebUI.click(findTestObject('Booking/Offline/View/Prev'))
 
-WebUI.setText(findTestObject('Booking/Offline/View/search bar'), 'yoga')
-
-WebUI.click(findTestObject('Booking/Offline/View/search icon'))
+WebUI.setText(findTestObject('Booking/Offline/View/Search2'), 'Cycling')
 

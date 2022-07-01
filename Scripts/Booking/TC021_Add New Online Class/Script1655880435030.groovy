@@ -17,25 +17,47 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Booking/Online/Add/data kelas'))
+WebUI.click(findTestObject('Booking/Online/Add/Data Kelas'))
 
-WebUI.click(findTestObject('Booking/Online/Add/kelas online'))
+WebUI.click(findTestObject('Booking/Online/Add/Online Class'))
 
-WebUI.setText(findTestObject('Booking/Online/Add/nama kelas'), 'yoga')
+WebUI.click(findTestObject('Booking/Online/Add/Add Online Class'))
 
-WebUI.click(findTestObject('Booking/Online/Add/tgl'))
+WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/tambahKelasOnline')
 
-WebUI.setText(findTestObject('Booking/Online/Add/jam mulai'), '1pm')
+WebUI.setText(findTestObject('Booking/Online/Add/Class Name'), 'Yoga')
 
-WebUI.setText(findTestObject('Booking/Online/Add/jam selesai'), '2pm')
+WebUI.setText(findTestObject('Booking/Online/Add/Date'), '12122022')
 
-WebUI.click(findTestObject('Booking/Online/Add/pelatih'))
+WebUI.click(findTestObject('Booking/Online/Add/Start Time'))
 
-WebUI.setText(findTestObject('Booking/Online/Add/deskripsi'), 'kelas yoga')
+WebUI.click(findTestObject('Booking/Online/Add/Start 12'))
 
-WebUI.setText(findTestObject('Booking/Online/Add/virtual meeting'), 'https')
+WebUI.click(findTestObject('Booking/Online/Add/Start 00'))
 
-WebUI.click(findTestObject('Booking/Online/Add/save button'))
+WebUI.click(findTestObject('Booking/Online/Add/Start PM'))
 
-WebUI.click(findTestObject('Booking/Online/Add/ya button'))
+WebUI.click(findTestObject('Booking/Online/Add/Start OK'))
+
+WebUI.click(findTestObject('Booking/Online/Add/End Time'))
+
+WebUI.click(findTestObject('Booking/Online/Add/End PM'))
+
+WebUI.click(findTestObject('Booking/Online/Add/End 1'))
+
+WebUI.click(findTestObject('Booking/Online/Add/End 00'))
+
+WebUI.click(findTestObject('Booking/Online/Add/End OK'))
+
+WebUI.click(findTestObject('Booking/Online/Add/Trainer1'))
+
+WebUI.click(findTestObject('Booking/Online/Add/Peter2'))
+
+WebUI.setText(findTestObject('Booking/Online/Add/Description'), 'ini adalah kelas yoga online')
+
+WebUI.setText(findTestObject('Booking/Online/Add/Virtual Meeting'), 'https://zoom.us/meeting/register/tJEuceihpj4pE9YG18D1OTbZHQjnniOr')
+
+WebUI.click(findTestObject('Booking/Online/Add/Save Button'))
+
+WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/DataKelasOnline')
 

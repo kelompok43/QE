@@ -24,10 +24,10 @@ WebUI.navigateToUrl('www.coba.com')
 WebUI.maximizeWindow()
 
 for (int i = 1; i <= 5; i++) {
-    WebUI.setText(findTestObject('Auth/Login/email'), findTestData('Auth/Login/DataLogin').getValue(1, i))
+    WebUI.setText(findTestObject('null'), findTestData('Auth/Login/DataLogin').getValue(1, i))
 
-    WebUI.setText(findTestObject('Auth/Login/password'), findTestData('Auth/Login/DataLogin').getValue(2, i))
+    WebUI.setText(findTestObject('null'), findTestData('Auth/Login/DataLogin').getValue(2, i))
 
-    WebUI.click(findTestObject('Auth/Login/login button'))
+    WebUI.click(findTestObject('null'))
 }
 

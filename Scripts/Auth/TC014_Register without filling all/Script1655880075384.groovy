@@ -17,9 +17,9 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Auth/Register/data admin'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Auth/Register/add admin'))
+WebUI.click(findTestObject('null'))
 
-WebUI.click(findTestObject('Auth/Register/save button'))
+WebUI.click(findTestObject('null'))
 

@@ -17,11 +17,13 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Management/Admin/View/data admin'))
+WebUI.click(findTestObject('Management/Admin/View/Data Admin'))
 
-WebUI.click(findTestObject('Management/Admin/View/next prev'))
+WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/DataAdmin')
 
-WebUI.setText(findTestObject('Management/Admin/View/search bar'), 'alif')
+WebUI.click(findTestObject('Management/Admin/View/Next'))
 
-WebUI.click(findTestObject('Management/Admin/View/search icon'))
+WebUI.click(findTestObject('Management/Admin/View/Prev'))
+
+WebUI.setText(findTestObject('Management/Admin/View/Search'), 'Marvin')
 

@@ -17,7 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Auth/Logout/account'))
+WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/')
 
-WebUI.click(findTestObject('Auth/Logout/logout button'))
+WebUI.click(findTestObject('Auth/Logout/SuperAdmin'))
+
+WebUI.click(findTestObject('Auth/Logout/Logout Button'))
+
+WebUI.closeBrowser()
 

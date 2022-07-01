@@ -17,5 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Dashboard/dashboard'))
+WebUI.click(findTestObject('Dashboard/Dashboard'))
+
+WebUI.click(findTestObject('Dashboard/Menu'))
+
+WebUI.click(findTestObject('Dashboard/Menu'))
+
+WebUI.scrollToElement(findTestObject('Dashboard/Chart'), 3)
 
