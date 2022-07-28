@@ -19,15 +19,19 @@ import org.openqa.selenium.Keys as Keys
 
 WebUI.openBrowser('')
 
-WebUI.navigateToUrl('www.coba.com')
+WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/Login')
 
 WebUI.maximizeWindow()
 
 for (int i = 1; i <= 5; i++) {
-    WebUI.setText(findTestObject('null'), findTestData('Auth/Login/DataLogin').getValue(1, i))
+    WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/Login')
 
-    WebUI.setText(findTestObject('null'), findTestData('Auth/Login/DataLogin').getValue(2, i))
+    WebUI.setText(findTestObject('Auth/Login/Email'), findTestData('Data Login').getValue(1, i))
 
-    WebUI.click(findTestObject('null'))
+    WebUI.setText(findTestObject('Auth/Login/Password'), findTestData('Data Login').getValue(2, i))
+
+    WebUI.click(findTestObject('Auth/Login/Button Login'))
 }
+
+WebUI.verifyElementText(findTestObject('Auth/Login/Dashboard'), 'Dashboard')
 

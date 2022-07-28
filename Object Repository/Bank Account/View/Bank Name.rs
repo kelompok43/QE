@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Bank Name</name>
+   <tag></tag>
+   <elementGuidId>d8d73fa3-0623-4590-bfc0-7d7a73cd5ca3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div[2]/div/div/div/div/div[3]/table/tbody/tr/td[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>87fbe6a6-08bc-4298-a8ae-a69f1cd458d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-start</value>
+      <webElementGuid>ad932a2d-36f6-463d-bd2b-2137e5483755</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>BCA(Bank Central Asia)</value>
+      <webElementGuid>7b0cfcba-b701-46c1-ba2f-5b757caa3d73</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[@class=&quot;container container--fluid&quot;]/div[2]/div[@class=&quot;pa-4 ma-3 rounded-lg v-sheet theme--light white lighten-4&quot;]/div[@class=&quot;ma-5&quot;]/div[@class=&quot;px-5 py-0 v-sheet theme--light grey lighten-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;v-data-table elevation-1 v-data-table--has-top theme--light&quot;]/div[@class=&quot;v-data-table__wrapper&quot;]/table[1]/tbody[1]/tr[1]/td[@class=&quot;text-start&quot;]</value>
+      <webElementGuid>ad298413-ece1-4966-afd2-626c3b05a682</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div[2]/div/div/div/div/div[3]/table/tbody/tr/td[2]</value>
+      <webElementGuid>b63ce93c-a37d-4a38-b0d0-0f1887dfda3c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Action'])[1]/following::td[2]</value>
+      <webElementGuid>a8a96d35-98b7-4dda-8fa7-b41de2026b68</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Pemilik'])[1]/following::td[2]</value>
+      <webElementGuid>1190fe75-7698-4102-83c7-3fe327707ffc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ulil'])[1]/preceding::td[2]</value>
+      <webElementGuid>664b3174-864d-4636-9601-7199ac9fce93</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Edit'])[1]/preceding::td[3]</value>
+      <webElementGuid>2f13692d-4373-4edd-bf75-d29fad355846</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='BCA(Bank Central Asia)']/parent::*</value>
+      <webElementGuid>b745e813-9dd1-4c43-82ac-2cfc4bdcaf07</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]</value>
+      <webElementGuid>f9ec9294-0da6-4d2e-ae22-f3d60d61d25b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'BCA(Bank Central Asia)' or . = 'BCA(Bank Central Asia)')]</value>
+      <webElementGuid>bc29d5be-6e6b-4f10-96e5-ee31f3dfa224</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

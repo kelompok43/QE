@@ -17,13 +17,11 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.click(findTestObject('Membership/View/Data Member'))
-
 WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/DataMember')
 
-WebUI.click(findTestObject('Membership/View/Next'))
+WebUI.verifyElementText(findTestObject('Membership/Data Member/View/Tabel Data Member'), 'Tabel Data Member')
 
-WebUI.click(findTestObject('Membership/View/Prev'))
+WebUI.setText(findTestObject('Membership/Data Member/View/Search'), 'budi4')
 
-WebUI.setText(findTestObject('Membership/View/Search'), 'Marvin')
+WebUI.verifyElementText(findTestObject('Membership/Data Member/View/Name'), 'budi4')
 

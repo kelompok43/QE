@@ -3,15 +3,15 @@
    <description></description>
    <name>Search</name>
    <tag></tag>
-   <elementGuidId>5e3f7f1c-ee1c-4cfd-abb8-2e08babeb9c1</elementGuidId>
+   <elementGuidId>6e22a8cc-b28b-4301-adc1-6403eded2043</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#input-111</value>
+         <key>XPATH</key>
+         <value>//input[@id='input-48']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='input-111']</value>
+         <key>CSS</key>
+         <value>#input-48</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1e1c0fc7-5312-4c44-b30f-1c1cae4d8591</webElementGuid>
+      <webElementGuid>20ac84c3-d631-4d0d-aad2-c400519d3e9c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>input-111</value>
-      <webElementGuid>acdb8e6f-5dbd-4c81-8b34-c3e49d271aca</webElementGuid>
+      <value>input-48</value>
+      <webElementGuid>535c06c2-44e2-48cc-8074-ed505a19028b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,31 +38,31 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>02c8bdd4-1db9-4ab0-8376-389692d41fd3</webElementGuid>
+      <webElementGuid>afc3e8f1-0f6c-4404-9883-150603beb8cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;input-111&quot;)</value>
-      <webElementGuid>28db1169-019b-4425-8e4c-5b7517c3aabb</webElementGuid>
+      <value>id(&quot;input-48&quot;)</value>
+      <webElementGuid>d71f6bdf-c2e5-4512-86b3-bcc96728adc6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='input-111']</value>
-      <webElementGuid>f1f20f45-ddbf-4297-87fb-f50a780df53d</webElementGuid>
+      <value>//input[@id='input-48']</value>
+      <webElementGuid>8c0f0819-4b18-4fc9-b24a-b24594637764</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/input</value>
-      <webElementGuid>e5ef5d8c-af62-497e-be2a-bfa805b315ea</webElementGuid>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div/div[3]/div[2]/div/div/div/input</value>
+      <webElementGuid>c761f155-65b4-424c-af7f-4ea3d8267b44</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,14 +70,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>5fa8a2a8-e91b-4224-88a2-10beba6bc5c1</webElementGuid>
+      <webElementGuid>68a62b3a-12c7-4d50-8484-045c7ef105a7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'input-111' and @type = 'text']</value>
-      <webElementGuid>d7f8508b-5c6d-418b-814c-a104a800a0f4</webElementGuid>
+      <value>//input[@id = 'input-48' and @type = 'text']</value>
+      <webElementGuid>65736083-96fe-46a2-97d1-805e34fe0de6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

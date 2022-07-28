@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Status</name>
+   <tag></tag>
+   <elementGuidId>9082f381-cd55-4c22-87b5-6084dab63aad</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/main/div/div/div/div/div/div/div/form/div[7]/div/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-select__selections</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>befadcf1-2726-4965-97a0-e93ef069e4a2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-select__selections</value>
+      <webElementGuid>cb1f1d11-af61-4666-84ab-714cabac7394</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/main[@class=&quot;v-main v-content&quot;]/div[@class=&quot;v-main__wrap v-content__wrap&quot;]/div[@class=&quot;container fill-height container--fluid&quot;]/div[@class=&quot;row align-center justify-center&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-12&quot;]/div[@class=&quot;elevation-12 v-card v-sheet theme--light&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[@class=&quot;v-card__text mt-5&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;v-input v-input--is-focused theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-select orange--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-select__slot&quot;]/div[@class=&quot;v-select__selections&quot;]</value>
+      <webElementGuid>46b528eb-dcea-4a63-990f-bf63d9ab8f66</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/main/div/div/div/div/div/div/div/form/div[7]/div/div/div/div</value>
+      <webElementGuid>704f010c-db36-4e70-ac6d-bc305e8d8a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[6]/following::div[2]</value>
+      <webElementGuid>c91ae9fe-413d-452a-9015-1030adb69a48</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Status'])[1]/following::div[5]</value>
+      <webElementGuid>443f8bf2-9e3b-4ee6-b6e0-cac7f27f2723</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/preceding::div[7]</value>
+      <webElementGuid>ac1120af-d544-4df8-98ed-aaaad79c4470</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::div[9]</value>
+      <webElementGuid>c74876d8-1f1e-4a00-b467-402764b6ad9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[7]/div/div/div/div</value>
+      <webElementGuid>0cae7f9b-8218-424d-b406-d95f60ffad25</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

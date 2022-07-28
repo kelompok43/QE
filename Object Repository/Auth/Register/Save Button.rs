@@ -3,15 +3,15 @@
    <description></description>
    <name>Save Button</name>
    <tag></tag>
-   <elementGuidId>9478d19e-34c1-4149-9ef7-dee59fcd71f0</elementGuidId>
+   <elementGuidId>05f5b148-fb4d-4121-b67f-04c93e080e0f</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.v-btn__content</value>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div[2]/button/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/main/div/div/div/div/div/div/div[2]/button/span</value>
+         <key>CSS</key>
+         <value>button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--dark.v-size--default > span.v-btn__content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>864de60d-5993-4167-87d3-f5b5501b3e6f</webElementGuid>
+      <webElementGuid>71405051-b2df-41d2-b5c8-cab5abf651ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-btn__content</value>
-      <webElementGuid>05c7fb1b-399f-4ab8-bc79-af0c11dea461</webElementGuid>
+      <webElementGuid>744e5d64-581a-4751-bb68-8ae0f3307669</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,23 +38,23 @@
       <name>text</name>
       <type>Main</type>
       <value> Save </value>
-      <webElementGuid>3c4f084e-4c93-4ca4-9880-a361c8ff5359</webElementGuid>
+      <webElementGuid>936d7551-4b1a-49dc-8496-ff461556938c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;row align-center justify-center&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-12&quot;]/div[@class=&quot;elevation-12 v-card v-sheet theme--light&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[@class=&quot;text-left mt-5 ms-3&quot;]/button[@class=&quot;v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
-      <webElementGuid>77c4e7e3-871c-41fc-927d-70728776d773</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;row align-center justify-center&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-12&quot;]/div[@class=&quot;elevation-12 v-card v-sheet theme--light&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[@class=&quot;text-left mt-5 ms-3&quot;]/button[@class=&quot;v-btn v-btn--is-elevated v-btn--has-bg theme--dark v-size--default&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>2ee945d1-5b34-47b2-8419-5801cdb80934</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div[2]/button/span</value>
-      <webElementGuid>d9699ae2-1767-4253-8dcd-3d0125fe962b</webElementGuid>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div[2]/button/span</value>
+      <webElementGuid>50dc915b-b633-40f8-9422-bf42d14592db</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Password'])[2]/following::span[1]</value>
-      <webElementGuid>46a6358c-0217-476a-9393-f91acb01c324</webElementGuid>
+      <webElementGuid>5447d9da-dd89-4681-ab86-61bd1ca950d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,15 +70,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[6]/following::span[1]</value>
-      <webElementGuid>6c07eb52-e5d2-4329-a318-3c2b83ad0514</webElementGuid>
+      <webElementGuid>772f7c2f-c86b-4cf8-9088-5445aa78ddf0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Operasional'])[2]/preceding::span[1]</value>
-      <webElementGuid>b50955c5-ad8e-4cae-9e1b-71684b1c61de</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Admin Operasional'])[1]/preceding::span[1]</value>
+      <webElementGuid>8c757bee-debc-4c33-9912-8b8d655634ad</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Member'])[1]/preceding::span[1]</value>
-      <webElementGuid>5be20cca-235d-4d34-adaf-7ca9a2fdcf94</webElementGuid>
+      <webElementGuid>875ed0a9-e84b-473b-87b3-d7d69cc584a0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,15 +94,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Save']/parent::*</value>
-      <webElementGuid>007d800a-15f3-4d0e-875e-e37667f0f3f0</webElementGuid>
+      <webElementGuid>0b73cd79-833c-4a34-8b1d-1f31719e3092</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button/span</value>
-      <webElementGuid>f382134a-4de3-48f6-89d3-174d7d9cadd4</webElementGuid>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>be4ebc4a-afb0-4226-a980-910a7996bf20</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' Save ' or . = ' Save ')]</value>
-      <webElementGuid>d04c3918-c0d1-431c-b6c7-724a82f4a31e</webElementGuid>
+      <webElementGuid>f8ad9500-44eb-4391-bedf-cd2a713bcf4d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

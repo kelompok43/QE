@@ -3,15 +3,15 @@
    <description></description>
    <name>Data Admin</name>
    <tag></tag>
-   <elementGuidId>37c44fbf-20c7-4e28-9d88-213d146ef408</elementGuidId>
+   <elementGuidId>caa9d4ad-b73f-495f-abbd-eb501c8760f6</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/main/div/div/nav/div/div[2]/a[5]/div[2]/div</value>
+         <value>//div[@id='app']/div/main/div/div/nav/div/div[2]/a[4]/div[2]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value></value>
+         <value>a.grey--text.orange--text.v-list-item--active.v-list-item.v-list-item--link.theme--light > div.v-list-item__content > div.v-list-item__title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>704022ab-31e0-4599-9aa4-5589a47df857</webElementGuid>
+      <webElementGuid>dd9e418e-bc0f-45db-8cb4-3928676615c9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-list-item__title</value>
-      <webElementGuid>a783d101-f6a9-44c3-9fc1-607f185463c7</webElementGuid>
+      <webElementGuid>c178ba7b-a52c-4385-9d0b-303d922db294</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,23 +38,23 @@
       <name>text</name>
       <type>Main</type>
       <value> Data Admin </value>
-      <webElementGuid>5a07b408-73ec-481c-927e-8e7de6b379ea</webElementGuid>
+      <webElementGuid>e31fd018-8841-4096-bcf5-bd67d9e91178</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--is-mouseover v-navigation-drawer--open theme--light&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;v-list clickable v-sheet v-sheet--shaped theme--light&quot;]/a[@class=&quot;grey--text v-list-item v-list-item--link theme--light&quot;]/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
-      <webElementGuid>d112345d-26a5-43fb-af8d-fd93d5b5ed4a</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--is-mouseover v-navigation-drawer--open theme--light&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;v-list clickable v-sheet v-sheet--shaped theme--light&quot;]/a[@class=&quot;grey--text orange--text v-list-item--active v-list-item v-list-item--link theme--light&quot;]/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
+      <webElementGuid>9833d221-374a-4eb1-b2da-eddf1aaf9461</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/main/div/div/nav/div/div[2]/a[5]/div[2]/div</value>
-      <webElementGuid>59fc5e0b-bd92-4f70-90f5-542c30ab314d</webElementGuid>
+      <value>//div[@id='app']/div/main/div/div/nav/div/div[2]/a[4]/div[2]/div</value>
+      <webElementGuid>d2e0114e-a4b8-483c-b75f-d3420feb3f66</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Pelatih'])[1]/following::div[3]</value>
-      <webElementGuid>cb3cc2f7-0671-4456-9b98-85110af5b68d</webElementGuid>
+      <webElementGuid>347bd34d-f815-4e26-8c0f-61c2acf3cdbe</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,23 +70,23 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Pemesanan'])[1]/following::div[6]</value>
-      <webElementGuid>fdcdf4b9-6be5-4efc-9dcb-c27cae957c84</webElementGuid>
+      <webElementGuid>588b4b61-44de-4432-a66b-4c600c1717b8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jadwal Latihan'])[1]/preceding::div[2]</value>
-      <webElementGuid>2cba2c2b-1d3f-4c0b-ba9e-465b511883cd</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/preceding::div[2]</value>
+      <webElementGuid>e31d1f39-ce63-4841-b80b-adaa2e00fef8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/preceding::div[5]</value>
-      <webElementGuid>d2248d33-6253-40fd-b66f-dcc1af754fd0</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Rekening'])[1]/preceding::div[5]</value>
+      <webElementGuid>0b1c841a-b247-465e-b6a6-6c8a6bbc5139</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,15 +94,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Data Admin']/parent::*</value>
-      <webElementGuid>ecfbdd92-64ec-4744-b25c-3f53c48f4824</webElementGuid>
+      <webElementGuid>cb5d80ea-a822-4b74-9b75-991b40b1d3ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//a[5]/div[2]/div</value>
-      <webElementGuid>38b12b40-5e4a-4e48-a808-a6798980a0cb</webElementGuid>
+      <value>//a[4]/div[2]/div</value>
+      <webElementGuid>33e94a42-cf18-4ceb-ac94-150cb9a2caf2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Data Admin ' or . = ' Data Admin ')]</value>
-      <webElementGuid>8f67caa8-99a3-4390-a9eb-3839d61bb3e4</webElementGuid>
+      <webElementGuid>70eaaa17-d804-4b69-b78b-910a50a75f08</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

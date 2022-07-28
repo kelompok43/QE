@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>SUKSES</name>
+   <tag></tag>
+   <elementGuidId>fdbfc7d4-199d-42b7-ae7c-20f39619daf5</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-alert__content</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b1460356-96f8-44a0-be16-5093e75e2fb5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-alert__content</value>
+      <webElementGuid>18ac1910-9e81-4395-90c4-2d351b98257c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SUKSES! Data berhasil disimpan </value>
+      <webElementGuid>7b261565-b809-46a1-8dfc-ac0baf502579</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;row align-center justify-center&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-12&quot;]/div[@class=&quot;elevation-12 v-card v-sheet theme--light&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[1]/div[@class=&quot;v-alert alertatas v-sheet theme--dark v-alert--dense v-alert--text green--text text--darken-3&quot;]/div[@class=&quot;v-alert__wrapper&quot;]/div[@class=&quot;v-alert__content&quot;]</value>
+      <webElementGuid>819f2ab9-9ed7-4dad-8e70-35fefd971a5e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>b72af50e-6176-4919-bd2e-ea720edbed33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SuperAdmin'])[1]/following::div[9]</value>
+      <webElementGuid>97810088-996a-45b8-a370-e13a881f0b1c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[2]/following::div[11]</value>
+      <webElementGuid>a9d9ab36-f204-4a60-a345-8af9a80b4b74</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tambah Kelas Offline Baru'])[1]/preceding::div[1]</value>
+      <webElementGuid>76987cc3-941f-4104-95ac-b17fdf4c1922</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Data berhasil disimpan']/parent::*</value>
+      <webElementGuid>c32fa8b3-032c-4d2f-8fce-1dc4560ecaf1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div/div/div/div/div/div/div/div</value>
+      <webElementGuid>b362ba8a-e294-4c44-a20f-ac9a89d86a10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'SUKSES! Data berhasil disimpan ' or . = 'SUKSES! Data berhasil disimpan ')]</value>
+      <webElementGuid>08fcb2e4-9013-472f-b777-ea4029b6719a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

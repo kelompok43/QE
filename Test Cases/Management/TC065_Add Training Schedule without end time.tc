@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC065_Add Training Schedule without end time</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>9e843853-7074-4ff0-ba03-2a68f2818744</testCaseGuid>
-</TestCaseEntity>

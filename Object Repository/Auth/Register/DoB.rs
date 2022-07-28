@@ -3,15 +3,15 @@
    <description></description>
    <name>DoB</name>
    <tag></tag>
-   <elementGuidId>5c678714-3213-4932-8f79-b65f2f933c17</elementGuidId>
+   <elementGuidId>de76f517-f98d-4b93-88c9-5c5776e2f3d8</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#tanggallahir</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='tanggallahir']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#tanggallahir</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,15 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>64194ece-01f6-4918-9732-f82d364ad8dc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>name</name>
-      <type>Main</type>
-      <value>date</value>
-      <webElementGuid>e16dd22d-c229-4c43-a681-d33b0adae0d2</webElementGuid>
+      <webElementGuid>9b7606f2-8427-49c3-85fb-ea9490a7048f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +30,7 @@
       <name>id</name>
       <type>Main</type>
       <value>tanggallahir</value>
-      <webElementGuid>868acea4-7509-4735-a731-2eb85e6d26d1</webElementGuid>
+      <webElementGuid>1ada64da-9a7a-491a-ac88-e491f7ae5a7b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,7 +38,7 @@
       <name>type</name>
       <type>Main</type>
       <value>date</value>
-      <webElementGuid>dd31ef7a-f20a-4dbf-90a7-a8eff5c712ce</webElementGuid>
+      <webElementGuid>e09dcf56-179f-4863-929c-7de6f1d0508c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -54,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;tanggallahir&quot;)</value>
-      <webElementGuid>5a4e5f6c-a8c4-4c68-baad-37987d6cc430</webElementGuid>
+      <webElementGuid>9d04dc00-8116-4339-9c09-67cdc236c5bc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -62,15 +54,15 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='tanggallahir']</value>
-      <webElementGuid>0dd8c70f-fb78-4373-a5d3-2761c101fad7</webElementGuid>
+      <webElementGuid>04cbb8f3-8f5c-4926-97d6-462633e15e59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/form/div[2]/div/div/div/input</value>
-      <webElementGuid>7f574523-e4a9-4646-8a15-b59dab75112f</webElementGuid>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div/form/div[2]/div/div/div/input</value>
+      <webElementGuid>a94d5d89-c5c8-4083-9478-4fa71f9806df</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,14 +70,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/input</value>
-      <webElementGuid>da575798-c6b0-4003-b8ee-ecb6af802c09</webElementGuid>
+      <webElementGuid>70aaed42-4458-4653-ba5b-2b0e0911acaa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@name = 'date' and @id = 'tanggallahir' and @type = 'date']</value>
-      <webElementGuid>7309a4b4-fa52-4564-b3e8-7c2cf2ec19bd</webElementGuid>
+      <value>//input[@id = 'tanggallahir' and @type = 'date']</value>
+      <webElementGuid>ff29d50f-aacb-4d9a-961d-f9fb453bd015</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC009_Register without gender</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>cb045d87-6e33-4fbc-a499-090252413a1e</testCaseGuid>
-</TestCaseEntity>

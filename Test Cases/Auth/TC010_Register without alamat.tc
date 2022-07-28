@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC010_Register without alamat</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>c190cd83-b6ba-4366-9149-e6246840b6bd</testCaseGuid>
-</TestCaseEntity>

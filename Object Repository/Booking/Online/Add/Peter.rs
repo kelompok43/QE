@@ -3,18 +3,18 @@
    <description></description>
    <name>Peter</name>
    <tag></tag>
-   <elementGuidId>70fafcc2-c18d-4cde-b3fd-3d8a37c39095</elementGuidId>
+   <elementGuidId>00d917b5-e3cc-4fdd-8d43-4501ecee2114</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='list-item-76-0']/div/div</value>
+         <value>//div[@id='list-item-79-0']/div/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>#list-item-76-0 > div.v-list-item__content > div.v-list-item__title</value>
+         <value>#list-item-79-0 > div.v-list-item__content > div.v-list-item__title</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>16827715-bc57-4b76-a48e-63fce3abd65f</webElementGuid>
+      <webElementGuid>cc654f91-9c32-4a83-89fa-ad9c1d7e215b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-list-item__title</value>
-      <webElementGuid>23835fe8-e359-42f1-81ea-0991ae66e095</webElementGuid>
+      <webElementGuid>30dab57e-5f97-47bd-829d-b3bce742f5f7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,39 +38,39 @@
       <name>text</name>
       <type>Main</type>
       <value>Peter</value>
-      <webElementGuid>0bd01c80-5ba8-4a38-89bc-faa0a412e085</webElementGuid>
+      <webElementGuid>f2816c68-dec8-40e2-acfb-40914f4a34ce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;list-item-76-0&quot;)/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
-      <webElementGuid>919e8294-86ad-4826-a54a-9fba51ba380c</webElementGuid>
+      <value>id(&quot;list-item-79-0&quot;)/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
+      <webElementGuid>85071d50-4b34-4fa8-91c5-7050236fc780</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='list-item-76-0']/div/div</value>
-      <webElementGuid>e151f376-735c-4034-b0b0-fa1cd48fbd9b</webElementGuid>
+      <value>//div[@id='list-item-79-0']/div/div</value>
+      <webElementGuid>ef7b3ca4-8779-45ab-a6c3-2e4e4ee5daf6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[5]</value>
-      <webElementGuid>2c84850c-9148-4928-9f40-f80c20e6217b</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Save'])[1]/following::div[6]</value>
+      <webElementGuid>b1d5c494-ba2e-45ce-92a3-9f3af8c9d02e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan link zoom'])[1]/following::div[9]</value>
-      <webElementGuid>d411d4aa-2bc5-4a73-95db-e0c39af8d7f9</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Masukkan link zoom'])[1]/following::div[10]</value>
+      <webElementGuid>79215fd4-b58c-4511-9fad-a94fee9055ac</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alan'])[1]/preceding::div[1]</value>
-      <webElementGuid>041d19cc-e352-4634-87ca-9501cb2cc807</webElementGuid>
+      <webElementGuid>920631fc-27ab-4019-9566-351a70efcc36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,15 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='VanXaiver'])[1]/preceding::div[4]</value>
-      <webElementGuid>2fd73453-6920-4983-9061-72a757e2f452</webElementGuid>
-   </webElementXpaths>
-   <webElementXpaths>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>xpath:neighbor</name>
-      <type>Main</type>
-      <value>//*/text()[normalize-space(.)='Peter']/parent::*</value>
-      <webElementGuid>8a53653e-899f-4266-a57c-793aed8f7384</webElementGuid>
+      <webElementGuid>b3acf114-84bc-414a-90a7-abdc7229e830</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +94,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/div</value>
-      <webElementGuid>baceb9c4-4267-4fec-8563-3e0bd60c6e03</webElementGuid>
+      <webElementGuid>0c51c9db-e743-4ff7-8a32-9919209c412b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +102,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Peter' or . = 'Peter')]</value>
-      <webElementGuid>7a0c2d68-2183-4c40-b6ab-2a8fed692e8e</webElementGuid>
+      <webElementGuid>e96e58e6-726f-4be6-ade6-d42d5054358b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

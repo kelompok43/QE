@@ -3,15 +3,15 @@
    <description></description>
    <name>Role</name>
    <tag></tag>
-   <elementGuidId>6cbd666a-a989-4f45-bb20-5e9de2042e0a</elementGuidId>
+   <elementGuidId>fe315c6d-b8b8-4b87-a959-32482eac6824</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.v-icon.notranslate.fas.fa-caret-down.theme--light.orange--text</value>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div/form/div[5]/div/div/div/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/form/div[5]/div/div/div/div[2]/div/i</value>
+         <key>CSS</key>
+         <value>div.v-select__selections</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,47 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>i</value>
-      <webElementGuid>e6d00668-ff72-4cb2-8d6d-fa5f20a0bd1a</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-hidden</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>f1ac3f0d-03cb-408a-aa72-445f9386ba81</webElementGuid>
+      <value>div</value>
+      <webElementGuid>99ecc36c-6c25-4c6f-b2a1-45b253a28524</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>v-icon notranslate fas fa-caret-down theme--light orange--text</value>
-      <webElementGuid>cdca32d5-91f9-4656-a2b8-86756acd2e3e</webElementGuid>
+      <value>v-select__selections</value>
+      <webElementGuid>134eec4f-8efc-4f99-bffc-b8613d5fe2d3</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;row align-center justify-center&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-12&quot;]/div[@class=&quot;elevation-12 v-card v-sheet theme--light&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[@class=&quot;v-card__text mt-5&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;v-input v-input--is-focused theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-select orange--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-select__slot&quot;]/div[@class=&quot;v-input__append-inner&quot;]/div[@class=&quot;v-input__icon v-input__icon--append&quot;]/i[@class=&quot;v-icon notranslate fas fa-caret-down theme--light orange--text&quot;]</value>
-      <webElementGuid>e9b3f506-b3bc-45a9-9704-e6ff9f5e142e</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;row align-center justify-center&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-12&quot;]/div[@class=&quot;elevation-12 v-card v-sheet theme--light&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[@class=&quot;v-card__text mt-5&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;v-input v-input--is-focused theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-select orange--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-select__slot&quot;]/div[@class=&quot;v-select__selections&quot;]</value>
+      <webElementGuid>66e7803c-d88b-4f94-9daa-3c4d32a711e6</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/form/div[5]/div/div/div/div[2]/div/i</value>
-      <webElementGuid>d9f3c2a5-0192-470e-bc8b-f8764718edff</webElementGuid>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div/form/div[5]/div/div/div/div</value>
+      <webElementGuid>5618a01a-71fb-4f6d-b427-29cde6b35a7e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[4]/following::div[2]</value>
+      <webElementGuid>a5825c07-6f1c-4a33-90c7-54f0b5e09736</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Role'])[1]/following::div[5]</value>
+      <webElementGuid>04fa593a-1091-4450-b306-0171df3a4d4d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Email'])[1]/preceding::div[7]</value>
+      <webElementGuid>f81fe53b-7846-4ee4-bf31-17d518cf400a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[5]/preceding::div[7]</value>
+      <webElementGuid>34026f07-fb0f-4c60-a1a7-c121c166c020</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[5]/div/div/div/div[2]/div/i</value>
-      <webElementGuid>8fe72842-e552-4784-a11d-ad4ce3b2d545</webElementGuid>
+      <value>//div[5]/div/div/div/div</value>
+      <webElementGuid>57fe40f3-14dc-48c2-8180-d841b1faf3d8</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

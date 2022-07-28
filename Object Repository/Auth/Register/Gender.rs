@@ -3,15 +3,15 @@
    <description></description>
    <name>Gender</name>
    <tag></tag>
-   <elementGuidId>b6438d87-7a10-43b1-88e5-29a424772bd3</elementGuidId>
+   <elementGuidId>fb9fb77b-efcc-4a7e-a825-ebbfa86357ee</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div/form/div[3]/div/div/div/div/div/div</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>div.v-input--selection-controls__ripple</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/form/div[3]/div/div/div/div/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>6789df23-f40e-4bc4-a2fa-9f5b5af1e349</webElementGuid>
+      <webElementGuid>a855e7e2-233f-49e5-bcf1-50e7e68fd1cf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,23 +30,23 @@
       <name>class</name>
       <type>Main</type>
       <value>v-input--selection-controls__ripple</value>
-      <webElementGuid>3503c9ab-8a5e-41a8-ba21-b6ae038af949</webElementGuid>
+      <webElementGuid>bdab7328-dae7-4903-bc38-446eaa539592</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;row align-center justify-center&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-12&quot;]/div[@class=&quot;elevation-12 v-card v-sheet theme--light&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[@class=&quot;v-card__text mt-5&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;v-input theme--light v-input--selection-controls v-input--radio-group v-input--radio-group--row&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-input--radio-group__input&quot;]/div[@class=&quot;v-radio theme--light&quot;]/div[@class=&quot;v-input--selection-controls__input&quot;]/div[@class=&quot;v-input--selection-controls__ripple&quot;]</value>
-      <webElementGuid>aa8a4304-041b-4363-9da6-0ca6a50597b6</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;row align-center justify-center&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-12&quot;]/div[@class=&quot;elevation-12 v-card v-sheet theme--light&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[@class=&quot;v-card__text mt-5&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;v-input theme--light v-input--selection-controls v-input--radio-group v-input--radio-group--row&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-input--radio-group__input&quot;]/div[@class=&quot;v-radio theme--light&quot;]/div[@class=&quot;v-input--selection-controls__input&quot;]/div[@class=&quot;v-input--selection-controls__ripple&quot;]</value>
+      <webElementGuid>ac6c57b0-da43-4b09-8946-0679789311b1</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/form/div[3]/div/div/div/div/div/div</value>
-      <webElementGuid>3cdfaa35-df07-4e62-a9b8-4b26c48fbf47</webElementGuid>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div[2]/div/div/form/div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>7feeba6a-5f4e-4f5f-9a7a-c91930fdccc2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,6 +54,6 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/div/div/div/div/div/div</value>
-      <webElementGuid>668925cb-72a6-40cc-85dc-e8a29fd465bc</webElementGuid>
+      <webElementGuid>96a15f48-6d01-49f8-b693-56f82c982f8d</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

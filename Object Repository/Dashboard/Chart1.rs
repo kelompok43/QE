@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Chart1</name>
+   <tag></tag>
+   <elementGuidId>ab902b2c-e528-4717-81ab-04c024a9d59e</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[4]/div[4]/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.grafik.order-4.pa-2 > div.mt-4.v-card.v-sheet.theme--light > div.mx-auto.v-sheet.theme--light.white</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b751370a-9788-455e-ad3e-3c1986cb9d85</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mx-auto v-sheet theme--light white</value>
+      <webElementGuid>f724ff41-2e0d-42e9-936b-8387f34ae479</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>64</value>
+      <webElementGuid>61594213-e404-440d-a7cf-5d2159f14594</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[@class=&quot;container&quot;]/div[@class=&quot;d-flex justify-center mb-6&quot;]/div[@class=&quot;grafik order-4 pa-2&quot;]/div[@class=&quot;mt-4 v-card v-sheet theme--light&quot;]/div[@class=&quot;mx-auto v-sheet theme--light white&quot;]</value>
+      <webElementGuid>c9e7f07b-93d0-4da4-b155-b6292eb75eb0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[4]/div[4]/div/div[2]</value>
+      <webElementGuid>3a95d4bc-79ed-4dd7-9977-96ddeeed4f56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Kategori Class'])[1]/following::div[1]</value>
+      <webElementGuid>f99e034d-0b53-46eb-b0db-c2f1a9d140b3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offline'])[1]/following::div[6]</value>
+      <webElementGuid>bdcfa656-53ac-40b6-be59-773e4e1c41cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[2]/preceding::div[4]</value>
+      <webElementGuid>57ef54e3-eb94-48b9-9fb6-f6f55f639cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Offline'])[2]/preceding::div[4]</value>
+      <webElementGuid>4051bc60-a3ea-4dbf-a42d-a1c0c387358b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div/div[2]</value>
+      <webElementGuid>5fc8c73c-209a-4290-b67d-96aebb779e1f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '64' or . = '64')]</value>
+      <webElementGuid>7ece4ffc-5a5d-4e69-990a-24f71930cd8d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

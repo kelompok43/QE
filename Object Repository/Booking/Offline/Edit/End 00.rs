@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>End 00</name>
+   <tag></tag>
+   <elementGuidId>0155331a-f61e-4c81-bd47-b688aceb5483</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.v-time-picker-clock__item.v-time-picker-clock__item--active.accent > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div[4]/div/div/div[2]/div/div[2]/div/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>da7022bb-40d2-40b7-b141-93fbea3d23c9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>00</value>
+      <webElementGuid>b3593d94-975e-42c6-9763-a8ffa3fec17e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active v-dialog--persistent&quot;]/div[@class=&quot;v-picker v-card v-picker--time v-picker--full-width theme--light&quot;]/div[@class=&quot;v-picker__body theme--light&quot;]/div[@class=&quot;v-time-picker-clock__container&quot;]/div[@class=&quot;v-time-picker-clock theme--light&quot;]/div[@class=&quot;v-time-picker-clock__inner&quot;]/span[@class=&quot;v-time-picker-clock__item v-time-picker-clock__item--active accent&quot;]/span[1]</value>
+      <webElementGuid>1baa5c80-0470-4df5-b9c2-0da88168f51c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div[4]/div/div/div[2]/div/div[2]/div/span/span</value>
+      <webElementGuid>6edff325-4bf8-4f2c-8fc0-fc58a46f6263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='PM'])[1]/following::span[2]</value>
+      <webElementGuid>4249e4d9-9db3-4802-a8b0-e411dc59275f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='AM'])[2]/following::span[2]</value>
+      <webElementGuid>65c4d865-8984-4340-b9f0-9083c041c32e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[23]</value>
+      <webElementGuid>8d9fd4d6-d637-4eab-984c-974d10ebe3d9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::span[24]</value>
+      <webElementGuid>3fdd0a3b-d53c-4aa0-a315-b3df5ee3340e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/span/span</value>
+      <webElementGuid>58c06a2f-e458-409f-b282-6070fe41a0d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '00' or . = '00')]</value>
+      <webElementGuid>283ac3bc-5cc4-4abd-b1b6-ee96f82ca684</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

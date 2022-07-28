@@ -3,15 +3,15 @@
    <description></description>
    <name>Trainer</name>
    <tag></tag>
-   <elementGuidId>08307ade-3f3f-4131-bc18-f81112031fdd</elementGuidId>
+   <elementGuidId>ccc74f83-9a5e-48b2-b446-a207343ee7a9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>i.v-icon.notranslate.fas.fa-caret-down.theme--light.orange--text</value>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/div[2]/form/div[9]/div/div/div/div</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/div/form/div[8]/div/div/div/div[2]/div/i</value>
+         <key>CSS</key>
+         <value>div.v-select__selections</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -21,47 +21,71 @@
       <matchCondition>equals</matchCondition>
       <name>tag</name>
       <type>Main</type>
-      <value>i</value>
-      <webElementGuid>1f588db2-f908-473c-b8cc-8724a3afa588</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>aria-hidden</name>
-      <type>Main</type>
-      <value>true</value>
-      <webElementGuid>7450411c-0f0d-47e4-b5f9-263a08456b72</webElementGuid>
+      <value>div</value>
+      <webElementGuid>f5ab0118-c2f6-45e7-a021-b1a9b9b83e55</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>class</name>
       <type>Main</type>
-      <value>v-icon notranslate fas fa-caret-down theme--light orange--text</value>
-      <webElementGuid>3c1ff6de-e1f1-4443-a159-0fc983a7b12b</webElementGuid>
+      <value>v-select__selections</value>
+      <webElementGuid>18f043dd-aecc-4325-9475-45f2264d8ff2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;row align-center justify-center&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-12&quot;]/div[@class=&quot;elevation-12 v-card v-sheet theme--light&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[@class=&quot;v-card__text mt-5&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;v-input v-input--is-focused theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-select orange--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-select__slot&quot;]/div[@class=&quot;v-input__append-inner&quot;]/div[@class=&quot;v-input__icon v-input__icon--append&quot;]/i[@class=&quot;v-icon notranslate fas fa-caret-down theme--light orange--text&quot;]</value>
-      <webElementGuid>93482fed-1b76-427c-82c0-ce9a508d9e01</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[@class=&quot;container container--fluid&quot;]/div[@class=&quot;row align-center justify-center&quot;]/div[@class=&quot;col-sm-8 col-md-8 col-12&quot;]/div[@class=&quot;elevation-12 v-card v-sheet theme--light&quot;]/div[@class=&quot;col-md-8 col-12&quot;]/div[@class=&quot;v-card__text mt-5&quot;]/form[@class=&quot;v-form&quot;]/div[@class=&quot;v-input v-input--is-focused theme--light v-text-field v-text-field--is-booted v-text-field--enclosed v-text-field--outlined v-select orange--text&quot;]/div[@class=&quot;v-input__control&quot;]/div[@class=&quot;v-input__slot&quot;]/div[@class=&quot;v-select__slot&quot;]/div[@class=&quot;v-select__selections&quot;]</value>
+      <webElementGuid>63c7524a-acce-42f6-91d6-898cd9f68da2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/div/form/div[8]/div/div/div/div[2]/div/i</value>
-      <webElementGuid>1ef808f5-636d-4316-bd31-d9bad986c528</webElementGuid>
+      <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/div[2]/form/div[9]/div/div/div/div</value>
+      <webElementGuid>487a9ca0-7653-4b05-95b9-fc603f08a9ff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[7]/following::div[2]</value>
+      <webElementGuid>1c0a8efa-95b4-4176-a14e-27386fceff5c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nama Pelatih'])[1]/following::div[5]</value>
+      <webElementGuid>32f52c8b-39ef-4860-a614-47e0f976d765</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Deskripsi'])[1]/preceding::div[7]</value>
+      <webElementGuid>943f8a72-2dbd-4304-9414-29b4b22bd1a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='​'])[8]/preceding::div[7]</value>
+      <webElementGuid>f64c0cc2-6517-4490-b597-5d98e5e0aa36</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[8]/div/div/div/div[2]/div/i</value>
-      <webElementGuid>bae31ddf-146d-44e0-9871-ea418d2a60be</webElementGuid>
+      <value>//div[9]/div/div/div/div</value>
+      <webElementGuid>0c919725-f231-4985-9063-650443fa0c20</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

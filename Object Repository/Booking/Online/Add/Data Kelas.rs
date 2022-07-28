@@ -3,15 +3,15 @@
    <description></description>
    <name>Data Kelas</name>
    <tag></tag>
-   <elementGuidId>e5cf174a-ab42-4a2b-bb61-4aa47fa6a815</elementGuidId>
+   <elementGuidId>f479b8b9-791c-4596-932e-88ba4d55fe14</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='app']/div/main/div/div/nav/div/div[2]/div/div/div[2]/div</value>
+         <value>//div[@id='app']/div/main/div/div/nav/div/div[2]/div[2]/div/div[2]/div</value>
       </entry>
       <entry>
          <key>CSS</key>
-         <value>div.v-list-item__content.grey--text > div.v-list-item__title</value>
+         <value>div.v-list-group__header.v-list-item.v-list-item--active.v-list-item--link.theme--light.orange--text > div.v-list-item__content.grey--text > div.v-list-item__title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>c8e094d9-b865-4dc3-aa4e-b6934cd025ce</webElementGuid>
+      <webElementGuid>bf671cad-1014-4ae5-a1ab-f1209c302105</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-list-item__title</value>
-      <webElementGuid>9141539d-7a1a-477e-92cf-68fd40cbaf9a</webElementGuid>
+      <webElementGuid>46b879fc-c8ea-47c8-8995-9b8e8b5368b5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Data Kelas </value>
-      <webElementGuid>a0c831eb-26ed-4bd2-8835-e689565b920c</webElementGuid>
+      <webElementGuid>c1f47535-5466-4818-97bd-dea87a9a16e5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,31 +46,31 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--is-mouseover v-navigation-drawer--open theme--light&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;v-list clickable v-sheet v-sheet--shaped theme--light&quot;]/div[@class=&quot;v-list-group v-list-group--active primary--text&quot;]/div[@class=&quot;v-list-group__header v-list-item v-list-item--active v-list-item--link theme--light orange--text&quot;]/div[@class=&quot;v-list-item__content grey--text&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
-      <webElementGuid>ecddd31c-f7bc-4d37-963d-2ecfd3b736a9</webElementGuid>
+      <webElementGuid>474f84bd-cde0-4c3f-b531-039744f7ad5f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/main/div/div/nav/div/div[2]/div/div/div[2]/div</value>
-      <webElementGuid>580fd8e4-406e-4295-ac89-962d45b695b2</webElementGuid>
+      <value>//div[@id='app']/div/main/div/div/nav/div/div[2]/div[2]/div/div[2]/div</value>
+      <webElementGuid>fac8bbfc-6c1c-4ce1-982f-2a5d63959ca6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Member'])[1]/following::div[5]</value>
-      <webElementGuid>11e767ff-6a3b-4e3c-bbf3-845da8fc9b5c</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Membership'])[1]/following::div[6]</value>
+      <webElementGuid>bfb0619e-0eb7-4de9-afc1-c5d44a9ff1ef</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[8]</value>
-      <webElementGuid>ed181473-28a8-46ae-9d49-ecf150a0ee08</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboard'])[1]/following::div[11]</value>
+      <webElementGuid>3e6f5c80-279a-4377-af69-e7fd09aa5c30</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Offline'])[1]/preceding::div[2]</value>
-      <webElementGuid>eb836ee9-fe02-44ef-9d2c-ac60a2cb4b09</webElementGuid>
+      <webElementGuid>9edd0e15-1c09-461e-9513-54d4f48372ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/preceding::div[4]</value>
-      <webElementGuid>3f2341f5-96b3-4901-a82a-178667425d2c</webElementGuid>
+      <webElementGuid>823fb752-97c0-4789-ac12-c3cc987e127f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,15 +94,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Data Kelas']/parent::*</value>
-      <webElementGuid>313f624a-d65a-4b77-91d9-00615144de8e</webElementGuid>
+      <webElementGuid>61fa7e20-1405-49da-a061-f00dcb66733e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div/div[2]/div</value>
-      <webElementGuid>2bc5fc29-9fbf-4f4a-94b0-85addf64c0b7</webElementGuid>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>dca22281-37b9-461a-9f3c-75a8d3d7fd88</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Data Kelas ' or . = ' Data Kelas ')]</value>
-      <webElementGuid>229d373b-1a20-47bd-8023-b322088854e0</webElementGuid>
+      <webElementGuid>1e3fe774-3067-49b6-b611-e9f413c90a78</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

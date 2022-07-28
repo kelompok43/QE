@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC012_Register with wrong format email</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>0bcfd0f0-769b-4755-9de2-c7d5f4df2f88</testCaseGuid>
-</TestCaseEntity>

@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC063_Add Training Schedule without date</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>b07e156a-7a7b-4f84-a75f-1a311719397e</testCaseGuid>
-</TestCaseEntity>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Prev</name>
+   <tag></tag>
+   <elementGuidId>4dc152c0-9002-4e41-8611-989f68bbea62</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>i.v-icon.notranslate.fas.fa-chevron-left.theme--light</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/nav/ul/li/button/i</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>i</value>
+      <webElementGuid>f1d55eb0-a888-43f6-8168-3053404914e7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+      <webElementGuid>e9aa4c08-297c-4081-bb20-44c316a3357d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-icon notranslate fas fa-chevron-left theme--light</value>
+      <webElementGuid>8c6862e8-9b1c-4299-ac9c-8c6f15e5bf16</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/div[@class=&quot;container container--fluid&quot;]/div[2]/div[@class=&quot;pa-4 ma-3 rounded-lg v-sheet theme--light white lighten-4&quot;]/div[@class=&quot;ma-5&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col&quot;]/div[@class=&quot;d-flex justify-end mt-4&quot;]/div[@class=&quot;pa-5 v-sheet theme--light rounded-lg&quot;]/div[@class=&quot;text-center&quot;]/nav[@class=&quot;halaman&quot;]/ul[@class=&quot;v-pagination theme--light&quot;]/li[1]/button[@class=&quot;v-pagination__navigation&quot;]/i[@class=&quot;v-icon notranslate fas fa-chevron-left theme--light&quot;]</value>
+      <webElementGuid>2b3de475-2700-428f-81ec-98988c6e9197</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/div/nav/ul/li/button/i</value>
+      <webElementGuid>a4759a64-4ed6-4c47-b5bb-bc979b64f842</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/i</value>
+      <webElementGuid>0622a765-4e05-4a3a-9caf-c216bade0aaa</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

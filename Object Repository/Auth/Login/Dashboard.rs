@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>Dashboard</name>
+   <tag></tag>
+   <elementGuidId>7067acf5-949b-4426-9511-45b390f878ce</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/header/div/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.v-toolbar__title.judulHalaman</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7dc948f3-e862-4e45-bef5-f5a7b63a776a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>v-toolbar__title judulHalaman</value>
+      <webElementGuid>23905370-41dd-4dff-9603-9c5a86d85588</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Dashboard </value>
+      <webElementGuid>af81c583-4dd1-4d33-a58b-de29d46ea7dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/header[@class=&quot;v-sheet theme--light v-toolbar v-app-bar v-app-bar--fixed&quot;]/div[@class=&quot;v-toolbar__content&quot;]/div[@class=&quot;d-flex align-center&quot;]/div[@class=&quot;v-toolbar__title judulHalaman&quot;]</value>
+      <webElementGuid>32d9d8a9-4b19-4724-91b6-87c64225978f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='app']/div/main/div/div/header/div/div/div</value>
+      <webElementGuid>47955139-5c72-4394-be29-a43c2c26346b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Rekening'])[1]/following::div[4]</value>
+      <webElementGuid>9c1bcb2e-8113-4c61-9b80-b5da7c672c5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Berita'])[1]/following::div[7]</value>
+      <webElementGuid>291d19bd-efe5-4b32-a6e2-4cec38f069eb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='SuperAdmin'])[1]/preceding::div[3]</value>
+      <webElementGuid>b85c0b58-69a9-40d8-b573-21baa0c1ac71</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Jumlah User'])[1]/preceding::div[4]</value>
+      <webElementGuid>8f5ba4ac-4a6c-414d-84bc-d2590ba81ebc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//header/div/div/div</value>
+      <webElementGuid>d0c3fe35-f1d0-4dc0-a6c3-a4890481141e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' Dashboard ' or . = ' Dashboard ')]</value>
+      <webElementGuid>bfae6337-2123-4e6c-a194-a0000b97612b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -21,7 +21,9 @@ WebUI.click(findTestObject('Auth/Register/Data Admin'))
 
 WebUI.click(findTestObject('Auth/Register/Add Admin'))
 
-WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/registrasi')
+WebUI.refresh(FailureHandling.STOP_ON_FAILURE)
+
+WebUI.verifyElementText(findTestObject('Auth/Register/Tambahkan admin operasional baru'), 'Tambahkan admin operasional baru')
 
 WebUI.setText(findTestObject('Auth/Register/Name'), 'alif')
 
@@ -42,6 +44,8 @@ WebUI.setText(findTestObject('Auth/Register/Password'), 'alif123')
 WebUI.click(findTestObject('Auth/Register/Save Button'))
 
 WebUI.click(findTestObject('Auth/Register/Ya Button'))
+
+WebUI.verifyElementText(findTestObject('Auth/Register/SUKSES'), 'SUKSES! Data berhasil disimpan')
 
 WebUI.navigateToUrl('https://develop--capstone-frontend-43.netlify.app/DataAdmin')
 

@@ -3,15 +3,15 @@
    <description></description>
    <name>Start 00</name>
    <tag></tag>
-   <elementGuidId>2dce0bf1-fe80-4629-b085-48d1345f8512</elementGuidId>
+   <elementGuidId>cbc1ab10-8ddf-448e-b013-8094f38be66e</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>span.v-time-picker-clock__item.v-time-picker-clock__item--active.accent > span</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='app']/div[3]/div/div/div[2]/div/div[2]/div/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.v-time-picker-clock__item.v-time-picker-clock__item--active.accent > span</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>82d98e2b-bf23-406f-8635-0f30b5f1a163</webElementGuid>
+      <webElementGuid>05138875-1729-4839-b205-51d18ecbcc8c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>00</value>
-      <webElementGuid>e7ac1b40-1cd5-493b-8325-f4b6bdf4447d</webElementGuid>
+      <webElementGuid>6efc2b84-b1da-4ca1-8ee4-9ac6b778344e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active v-dialog--persistent&quot;]/div[@class=&quot;v-picker v-card v-picker--time v-picker--full-width theme--light&quot;]/div[@class=&quot;v-picker__body theme--light&quot;]/div[@class=&quot;v-time-picker-clock__container&quot;]/div[@class=&quot;v-time-picker-clock theme--light&quot;]/div[@class=&quot;v-time-picker-clock__inner&quot;]/span[@class=&quot;v-time-picker-clock__item v-time-picker-clock__item--active accent&quot;]/span[1]</value>
-      <webElementGuid>b2724e5e-8519-4b19-a479-82618a5761a2</webElementGuid>
+      <webElementGuid>894ecd55-9e5b-436d-a6bf-5d0990e7094b</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[3]/div/div/div[2]/div/div[2]/div/span/span</value>
-      <webElementGuid>acfc11e3-76cc-4f26-821a-5289c553eccc</webElementGuid>
+      <webElementGuid>c4dcb0e5-5215-42a6-a16f-41ec80df9d54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PM'])[1]/following::span[2]</value>
-      <webElementGuid>49cfb817-101b-4280-98f7-f0547d79003a</webElementGuid>
+      <webElementGuid>c6fc8b91-421e-40e8-99c9-f0c3fea31e4b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AM'])[2]/following::span[2]</value>
-      <webElementGuid>44747cc1-0d61-4983-99de-74a4a3829cba</webElementGuid>
+      <webElementGuid>287ded8c-7d3f-4051-80e9-ca1e77fa40d9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[23]</value>
-      <webElementGuid>f60118d2-2bd9-4011-a328-30e7b27b0425</webElementGuid>
+      <webElementGuid>9e0946f8-4d9a-48db-881a-21b0c9aa1ccb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::span[24]</value>
-      <webElementGuid>da7fa14a-4927-4b48-8a17-b6be7a8382fe</webElementGuid>
+      <webElementGuid>15e0c352-d456-4b10-a6b7-0b18c3d57d5d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/span/span</value>
-      <webElementGuid>71caa7df-7e74-4f5a-90c8-c58ac068f45c</webElementGuid>
+      <webElementGuid>f430eb54-1e4f-4693-b34d-6fee648c2273</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '00' or . = '00')]</value>
-      <webElementGuid>ea051b4e-b337-412d-abff-8cbcf2f179c6</webElementGuid>
+      <webElementGuid>16a445a5-e153-40c3-aacb-d8d05e0feda9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

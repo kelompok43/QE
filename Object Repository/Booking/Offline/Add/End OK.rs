@@ -3,15 +3,15 @@
    <description></description>
    <name>End OK</name>
    <tag></tag>
-   <elementGuidId>b8bb415c-9ff3-4a2f-adb5-41f7a09a85fe</elementGuidId>
+   <elementGuidId>d9543c92-d5c8-42d1-a2fe-65026e3860aa</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='app']/div[4]/div/div/div[3]/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>664ff7a0-fe60-446a-93a0-1e10ec82e2b8</webElementGuid>
+      <webElementGuid>0d65c537-3f06-42f5-91da-ce3a579e600e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-btn__content</value>
-      <webElementGuid>8ee553f7-10d2-46f7-a688-c68438cdb0e5</webElementGuid>
+      <webElementGuid>d5cd75c8-e459-47e6-b9e9-e81daa0cfdb1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> OK </value>
-      <webElementGuid>3a0b4a2a-5c95-4d95-a3de-be098f8bff92</webElementGuid>
+      <webElementGuid>315064fb-bcaa-4b54-aa48-39c9e4a56558</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active v-dialog--persistent&quot;]/div[@class=&quot;v-picker v-card v-picker--time v-picker--full-width theme--light&quot;]/div[@class=&quot;v-picker__actions v-card__actions&quot;]/button[@class=&quot;v-btn v-btn--text theme--light v-size--default orange--text&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
-      <webElementGuid>cc1f3631-859c-46b4-a9f1-fc42d55d962d</webElementGuid>
+      <webElementGuid>d2cf7f50-16a3-4763-81b3-58e2952c0191</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[4]/div/div/div[3]/button[2]/span</value>
-      <webElementGuid>698470f1-9749-4a99-97da-8afdb73ea2fd</webElementGuid>
+      <webElementGuid>d8ac2f8b-1dc7-4bdf-8f6a-d9c6d523e131</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/following::span[1]</value>
-      <webElementGuid>b0329e06-e0c5-46e4-9080-f6f84a306f8e</webElementGuid>
+      <webElementGuid>de66b6c9-6b72-4088-940d-726f26c7bf91</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PM'])[2]/following::span[26]</value>
-      <webElementGuid>f4315bb0-bb8e-4b81-a0ad-5905b5c86a40</webElementGuid>
+      <webElementGuid>229ff647-b36d-404f-8c50-0fdfcb9e0cd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[1]</value>
-      <webElementGuid>b6820baf-29c0-4a90-bfad-f994c6e21347</webElementGuid>
+      <webElementGuid>72bd3e2f-3ded-4695-afb0-f766a85ee618</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::span[2]</value>
-      <webElementGuid>54f40324-f04d-4825-a172-0ae5f9df9007</webElementGuid>
+      <webElementGuid>9599c5bf-09a7-4f6c-a749-27efe9192fb1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='OK']/parent::*</value>
-      <webElementGuid>4747b4d8-9856-41dd-81aa-0aa84b2a1103</webElementGuid>
+      <webElementGuid>75bc7a0e-5070-4a92-b475-6e3c891b2556</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button[2]/span</value>
-      <webElementGuid>cf9c5c4a-703f-4b46-929e-acdf47c3224d</webElementGuid>
+      <webElementGuid>4156780b-99b8-476d-8545-cd67c08abd0a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' OK ' or . = ' OK ')]</value>
-      <webElementGuid>9043f175-74e0-4d35-8b3c-cad44162de37</webElementGuid>
+      <webElementGuid>85ceae67-91b6-470a-b7a5-ba75cc9a8e35</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

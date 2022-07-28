@@ -3,15 +3,15 @@
    <description></description>
    <name>Ya Button</name>
    <tag></tag>
-   <elementGuidId>94b18486-0192-469b-8edb-e6d00810fdc7</elementGuidId>
+   <elementGuidId>d62d1fe1-757b-4181-892b-f7e3e44284e9</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--light.v-size--default.success > span.v-btn__content</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='app']/div[4]/div/div/div[3]/button[2]/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btnya.v-btn.v-btn--is-elevated.v-btn--has-bg.theme--light.v-size--default.success > span.v-btn__content</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3221a292-9da2-4da5-bdfc-598af381e501</webElementGuid>
+      <webElementGuid>8114732e-06f1-477d-9526-a9a076e6a37b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-btn__content</value>
-      <webElementGuid>3f53a285-b9c6-486b-912d-a84c21fd5853</webElementGuid>
+      <webElementGuid>d3695c0a-d5e5-478f-afd1-f23a395dc026</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,15 +38,15 @@
       <name>text</name>
       <type>Main</type>
       <value> Ya </value>
-      <webElementGuid>6a3a7578-633a-4721-86f1-a2fb136342d3</webElementGuid>
+      <webElementGuid>33ceef29-c563-4859-97ad-81f28839c3c6</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active v-dialog--persistent&quot;]/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__actions justify-center&quot;]/button[@class=&quot;v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default success&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
-      <webElementGuid>1534baf2-7067-4625-a7de-2cee9c5f9a2c</webElementGuid>
+      <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active v-dialog--persistent&quot;]/div[@class=&quot;v-card v-sheet theme--light&quot;]/div[@class=&quot;v-card__actions justify-center&quot;]/button[@class=&quot;btnya v-btn v-btn--is-elevated v-btn--has-bg theme--light v-size--default success&quot;]/span[@class=&quot;v-btn__content&quot;]</value>
+      <webElementGuid>0c8ea664-1b67-44d2-87a4-da81afc0660f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[4]/div/div/div[3]/button[2]/span</value>
-      <webElementGuid>5a68065e-4460-4553-a78f-02ac89f08c21</webElementGuid>
+      <webElementGuid>a4e26235-249b-4456-adc1-60eaec5d1718</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Batal'])[1]/following::span[1]</value>
-      <webElementGuid>af166a33-dc60-43e9-8adf-65011371c8d4</webElementGuid>
+      <webElementGuid>487b6511-a173-4959-a6ea-21dd927d5b45</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Apakah data yang anda masukkan sudah benar?'])[1]/following::span[2]</value>
-      <webElementGuid>f86d1762-ffbb-41d8-abb3-4dcec1caa4f3</webElementGuid>
+      <webElementGuid>2fa29959-7b98-4a23-a317-013a84da8e8d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Capture object:'])[1]/preceding::span[1]</value>
-      <webElementGuid>560f0b77-0ec7-4679-a1c5-dfa7f3a6c339</webElementGuid>
+      <webElementGuid>3f383849-6844-47cc-a1cc-64f3ec19f02a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Alt'])[1]/preceding::span[2]</value>
-      <webElementGuid>1e395219-8447-4c0a-91bc-43d8be6ab742</webElementGuid>
+      <webElementGuid>3eee3542-712e-484d-a836-24b161c9edf9</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,15 +94,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Ya']/parent::*</value>
-      <webElementGuid>091a63ba-5dd9-4e46-8e0a-3e28a76aa703</webElementGuid>
+      <webElementGuid>2c96dc55-4acf-48fe-9053-727af52c635a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//button[2]/span</value>
-      <webElementGuid>cf53c729-b7d5-4569-a750-9efa4306c6c2</webElementGuid>
+      <value>//div[3]/button[2]/span</value>
+      <webElementGuid>7930c17e-9c17-40dc-bf44-b39d85c38605</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = ' Ya ' or . = ' Ya ')]</value>
-      <webElementGuid>d7291e6c-f88e-4ff4-81ce-9106b7ba575b</webElementGuid>
+      <webElementGuid>cfb37824-2981-4397-9436-1b2cecc68a39</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

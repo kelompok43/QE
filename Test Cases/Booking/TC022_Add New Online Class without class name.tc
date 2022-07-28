@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC022_Add New Online Class without class name</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>8009dc2d-d5b2-4d04-8e23-b1715f1640fc</testCaseGuid>
-</TestCaseEntity>

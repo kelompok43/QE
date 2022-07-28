@@ -3,18 +3,18 @@
    <description></description>
    <name>Search</name>
    <tag></tag>
-   <elementGuidId>0dddff40-cea7-489a-bc0a-154bf64efd4e</elementGuidId>
+   <elementGuidId>9f7d4d84-e144-407f-a06c-80c388235cc2</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#input-116</value>
+         <key>XPATH</key>
+         <value>//input[@id='input-48']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='input-116']</value>
+         <key>CSS</key>
+         <value>#input-48</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -22,15 +22,15 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e14fc974-8f05-4ff9-83f1-0dfe51459c96</webElementGuid>
+      <webElementGuid>6ee27ed4-f018-409c-9c13-ab247283ef52</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>input-116</value>
-      <webElementGuid>949c7d88-fe0e-4f49-9571-9d007b3df9ef</webElementGuid>
+      <value>input-48</value>
+      <webElementGuid>085d0c90-3a7a-44f3-a882-b0807cf3946e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,31 +38,31 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>921d6b5f-4fb9-4b2c-bf51-b408c23c3c93</webElementGuid>
+      <webElementGuid>4a030270-1a4b-4d2c-8cd1-1eccfac1b65b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;input-116&quot;)</value>
-      <webElementGuid>bf461ce9-3250-4172-8423-1b72ee5ed8b1</webElementGuid>
+      <value>id(&quot;input-48&quot;)</value>
+      <webElementGuid>51fb6ffb-4e87-4bfa-8ef2-49b13ec0c2dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='input-116']</value>
-      <webElementGuid>e0e33b33-2f14-45a7-b11d-141b36a5c93d</webElementGuid>
+      <value>//input[@id='input-48']</value>
+      <webElementGuid>5418b59f-a4f7-4f28-9769-51c773f6c353</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div[2]/div[2]/div/div/div/input</value>
-      <webElementGuid>327d8882-6698-4a33-ac86-f8446dc1ff30</webElementGuid>
+      <value>//div[@id='app']/div/main/div/div/div/div[2]/div/div/div[3]/div[2]/div/div/div/input</value>
+      <webElementGuid>d5c5ff97-881c-468b-a3ec-190b6ee63f46</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,14 +70,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>85c6a535-c8e1-4d0c-8b37-e9ceb5308aa3</webElementGuid>
+      <webElementGuid>8c1dd0bd-72c2-415f-8d68-af2957e7d118</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'input-116' and @type = 'text']</value>
-      <webElementGuid>3dcd32a5-c4bb-4602-836a-0e1e566cc59e</webElementGuid>
+      <value>//input[@id = 'input-48' and @type = 'text']</value>
+      <webElementGuid>2a654ded-0ec2-48c5-87fe-8e539983ecb7</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

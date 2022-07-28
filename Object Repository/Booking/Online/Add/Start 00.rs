@@ -3,7 +3,7 @@
    <description></description>
    <name>Start 00</name>
    <tag></tag>
-   <elementGuidId>fe20b98f-e4bc-40f6-ad2f-949c6041bfa2</elementGuidId>
+   <elementGuidId>0d21d2b1-a8cb-4a10-9f39-d79f40affb71</elementGuidId>
    <selectorCollection>
       <entry>
          <key>XPATH</key>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>fc7d68af-ae8d-435f-b67a-86fd1f643c19</webElementGuid>
+      <webElementGuid>43e33925-dbbe-421f-bcdb-c874c569536a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -30,7 +30,7 @@
       <name>text</name>
       <type>Main</type>
       <value>00</value>
-      <webElementGuid>ad8b0eec-a673-4234-9285-1e9c3b051305</webElementGuid>
+      <webElementGuid>89571d1c-b4b6-484d-8c55-ae8edb71ee18</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -38,7 +38,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active v-dialog--persistent&quot;]/div[@class=&quot;v-picker v-card v-picker--time v-picker--full-width theme--light&quot;]/div[@class=&quot;v-picker__body theme--light&quot;]/div[@class=&quot;v-time-picker-clock__container&quot;]/div[@class=&quot;v-time-picker-clock theme--light&quot;]/div[@class=&quot;v-time-picker-clock__inner&quot;]/span[@class=&quot;v-time-picker-clock__item v-time-picker-clock__item--active accent&quot;]/span[1]</value>
-      <webElementGuid>799bcc8f-ad53-456d-b834-c6685e13f9a4</webElementGuid>
+      <webElementGuid>db3d1290-c7f8-4b9a-9588-bff32be8bc3e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[3]/div/div/div[2]/div/div[2]/div/span/span</value>
-      <webElementGuid>5dd26c84-4b19-4c6e-9292-5152e6b2852e</webElementGuid>
+      <webElementGuid>c4680635-f227-44e2-81c4-5ae0c96ed5ee</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='PM'])[1]/following::span[2]</value>
-      <webElementGuid>ad80a323-c850-489e-a4db-aa2dd01a1f0f</webElementGuid>
+      <webElementGuid>91851886-3bb3-47b4-9cd1-13401957480c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AM'])[2]/following::span[2]</value>
-      <webElementGuid>af5bfff2-1efc-4dca-92c4-6dca6e989fbf</webElementGuid>
+      <webElementGuid>e0f42bf3-cedf-456b-9f0c-d3c8cdfcdd9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[23]</value>
-      <webElementGuid>79516e4b-afd6-44bd-9d12-09b094afdb85</webElementGuid>
+      <webElementGuid>8e617bb7-643e-4911-b728-5be9edb3217d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::span[24]</value>
-      <webElementGuid>5746dd48-0f2e-47f1-9353-0faa05b3eca4</webElementGuid>
+      <webElementGuid>9896f2c3-4050-4534-a2d2-74dce518997f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/span/span</value>
-      <webElementGuid>a215d213-a637-4d90-b705-388fe9fa8e7f</webElementGuid>
+      <webElementGuid>081df3c9-8ead-4160-86eb-38009969e9ea</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,6 +94,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '00' or . = '00')]</value>
-      <webElementGuid>d49eb174-90a4-416b-afde-d47301d01832</webElementGuid>
+      <webElementGuid>b5ba591d-2056-4730-bc0f-80a599e0b6ce</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

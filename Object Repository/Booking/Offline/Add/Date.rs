@@ -3,15 +3,15 @@
    <description></description>
    <name>Date</name>
    <tag></tag>
-   <elementGuidId>1f64b580-f200-45a0-ac90-a4d24f6c12e6</elementGuidId>
+   <elementGuidId>40ac2ecd-b327-47c8-9b10-4a744b023bf9</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#input-49</value>
+         <key>XPATH</key>
+         <value>//input[@id='input-51']</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='input-49']</value>
+         <key>CSS</key>
+         <value>#input-51</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>65031753-3997-43f5-a265-67b3ec5598c4</webElementGuid>
+      <webElementGuid>919db1d1-91fe-468a-b047-ea553e617c65</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,15 +30,15 @@
       <name>required</name>
       <type>Main</type>
       <value>required</value>
-      <webElementGuid>87ce0e04-88e3-4c6a-a9ca-eee7c5b5b795</webElementGuid>
+      <webElementGuid>21db6bf8-2a3b-4784-98f4-57b8f05b5acf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>input-49</value>
-      <webElementGuid>c31e8bd7-19cb-4aee-b908-69c2f0e81e80</webElementGuid>
+      <value>input-51</value>
+      <webElementGuid>2a5c21b0-caa6-4bde-a083-7fe973b53dfe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -46,23 +46,23 @@
       <name>type</name>
       <type>Main</type>
       <value>date</value>
-      <webElementGuid>2fd94919-9811-4b42-8b59-222286288e78</webElementGuid>
+      <webElementGuid>f1d47154-7d45-4da8-b882-00a2ba7de664</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;input-49&quot;)</value>
-      <webElementGuid>3d8c4669-87e5-4bd3-8e2c-e6c7826a31c1</webElementGuid>
+      <value>id(&quot;input-51&quot;)</value>
+      <webElementGuid>ddce5dce-5feb-492d-8705-fced467918dd</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='input-49']</value>
-      <webElementGuid>6cc2acc1-af89-4fee-a57a-b6e860884e10</webElementGuid>
+      <value>//input[@id='input-51']</value>
+      <webElementGuid>1e3cae77-1e41-4181-94b0-45c70f2ac0ab</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div/main/div/div/div/div/div/div/div/div/form/div[2]/div/div/div/input</value>
-      <webElementGuid>6668946c-f735-4877-9c61-b2eded1ff4db</webElementGuid>
+      <webElementGuid>32d1bbaa-3231-4722-8307-8f05fbbc80a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,14 +78,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[2]/div/div/div/input</value>
-      <webElementGuid>f886b84b-5637-4dba-a1ed-93a644c53f01</webElementGuid>
+      <webElementGuid>b1fc4abe-5ff3-4f37-bf16-0f0a623ae2b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@id = 'input-49' and @type = 'date']</value>
-      <webElementGuid>7321373c-f148-4e3f-bafc-bbb3c549a9b8</webElementGuid>
+      <value>//input[@id = 'input-51' and @type = 'date']</value>
+      <webElementGuid>38655de1-e170-4f6a-80aa-690b8d78c9fa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

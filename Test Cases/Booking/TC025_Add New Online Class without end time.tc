@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC025_Add New Online Class without end time</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>202efd68-cf67-4585-b2f7-c8391f9d3e7c</testCaseGuid>
-</TestCaseEntity>

@@ -3,15 +3,15 @@
    <description></description>
    <name>Start PM</name>
    <tag></tag>
-   <elementGuidId>6a839cbf-cf06-4392-9474-4bf1d209856d</elementGuidId>
+   <elementGuidId>027d9d10-1272-43b7-b1d0-db8e0e506ee8</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='app']/div[3]/div/div/div[2]/div/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>e4eeeae4-3a7b-4721-aced-4e61a0cbf25f</webElementGuid>
+      <webElementGuid>d7cec7bd-eeaf-4fd2-baea-13625d17ef34</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-picker__title__btn</value>
-      <webElementGuid>c5788a3d-23f4-49fd-869b-74c52d8ff4fd</webElementGuid>
+      <webElementGuid>bc550d32-c525-48f7-8a8f-262dde8f871c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value>PM</value>
-      <webElementGuid>89148cda-dbd6-49c9-a3e4-563ec7dc56d6</webElementGuid>
+      <webElementGuid>2707dd99-2d29-4f29-8c07-170a9c4becf1</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +46,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-dialog__content v-dialog__content--active&quot;]/div[@class=&quot;v-dialog v-dialog--active v-dialog--persistent&quot;]/div[@class=&quot;v-picker v-card v-picker--time v-picker--full-width theme--light&quot;]/div[@class=&quot;v-picker__body theme--light&quot;]/div[@class=&quot;v-time-picker-clock__container&quot;]/div[@class=&quot;v-time-picker-clock__ampm primary--text&quot;]/div[@class=&quot;v-picker__title__btn&quot;]</value>
-      <webElementGuid>e526df8f-8941-4bba-b289-5b55b6642bd8</webElementGuid>
+      <webElementGuid>82f9a6ce-57bb-4e79-9576-5b1f563b3571</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -54,7 +54,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='app']/div[3]/div/div/div[2]/div/div/div[2]</value>
-      <webElementGuid>aaa69e0e-70c5-48ea-ab61-6f055371d5eb</webElementGuid>
+      <webElementGuid>1854ec3b-64e8-4e1f-8d1b-548b4b49693b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,7 +62,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AM'])[2]/following::div[1]</value>
-      <webElementGuid>fa3e90c4-ab8b-4122-a05d-cdd21604c518</webElementGuid>
+      <webElementGuid>e3ad26ef-7fb1-40e7-9193-c793d3ffa97f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -70,7 +70,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='AM'])[1]/following::div[5]</value>
-      <webElementGuid>3091fc5d-db9f-48ce-8b58-7126396f418d</webElementGuid>
+      <webElementGuid>52989c47-004c-402b-a8b9-94556ef94347</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,7 +78,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::div[5]</value>
-      <webElementGuid>f4f1b70e-4660-48d1-af82-f83055d5cd63</webElementGuid>
+      <webElementGuid>e1f32bb4-61ee-4f36-a8f9-4a77776e60be</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +86,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='OK'])[1]/preceding::div[5]</value>
-      <webElementGuid>0da7d6fa-e817-43a7-b291-d09df96949a7</webElementGuid>
+      <webElementGuid>1f9d7bef-6a80-4eb9-b4f5-8fd354b90482</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +94,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='PM']/parent::*</value>
-      <webElementGuid>7955a212-7421-4e91-8119-bd551a3c8e11</webElementGuid>
+      <webElementGuid>631eb192-1557-48f5-a696-e158a39b864d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,7 +102,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div[2]/div/div/div[2]</value>
-      <webElementGuid>96238ee5-116c-408c-bbdf-49c31b73e84d</webElementGuid>
+      <webElementGuid>92a1543f-b25f-4a66-a256-01b294f1d4cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'PM' or . = 'PM')]</value>
-      <webElementGuid>baf5711b-2474-4d0f-ad8d-cfd157cde6d2</webElementGuid>
+      <webElementGuid>41b3c95f-806d-4bd3-aaac-52bdb3aca122</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

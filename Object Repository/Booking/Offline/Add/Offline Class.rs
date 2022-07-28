@@ -3,15 +3,15 @@
    <description></description>
    <name>Offline Class</name>
    <tag></tag>
-   <elementGuidId>6594fbe0-7534-4ed6-8347-e3dcbbe6fb10</elementGuidId>
+   <elementGuidId>9306f2d4-1db7-43d8-a0dd-dfce3df06ded</elementGuidId>
    <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='app']/div/main/div/div/nav/div/div[2]/div[2]/div[2]/a/div/div</value>
+      </entry>
       <entry>
          <key>CSS</key>
          <value>a.grey--text.orange--text.v-list-item--active.v-list-item.v-list-item--link.theme--light > div.v-list-item__content > div.v-list-item__title</value>
-      </entry>
-      <entry>
-         <key>XPATH</key>
-         <value>//div[@id='app']/div/main/div/div/nav/div/div[2]/div/div[2]/a/div/div</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -22,7 +22,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>07bfe1b3-a9c9-40c3-a0c8-806183d425b4</webElementGuid>
+      <webElementGuid>847d96d6-2d5c-43ec-a8bf-0a69aae147eb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -30,7 +30,7 @@
       <name>class</name>
       <type>Main</type>
       <value>v-list-item__title</value>
-      <webElementGuid>40b6f5fe-ec20-451c-aa1e-7980bd042009</webElementGuid>
+      <webElementGuid>79607125-69ce-4157-91fa-e17e4e1bd866</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -38,7 +38,7 @@
       <name>text</name>
       <type>Main</type>
       <value> Offline </value>
-      <webElementGuid>69e1801d-ac97-4848-ac1d-48ad3843c366</webElementGuid>
+      <webElementGuid>aeae1dc0-c5eb-468d-82d0-ebf5ed1f4f3f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,15 +46,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;app&quot;)/div[@class=&quot;v-application--wrap&quot;]/main[@class=&quot;v-main&quot;]/div[@class=&quot;v-main__wrap&quot;]/div[1]/nav[@class=&quot;v-navigation-drawer v-navigation-drawer--fixed v-navigation-drawer--is-mouseover v-navigation-drawer--open theme--light&quot;]/div[@class=&quot;v-navigation-drawer__content&quot;]/div[@class=&quot;v-list clickable v-sheet v-sheet--shaped theme--light&quot;]/div[@class=&quot;v-list-group v-list-group--active primary--text&quot;]/div[@class=&quot;v-list-group__items&quot;]/a[@class=&quot;grey--text orange--text v-list-item--active v-list-item v-list-item--link theme--light&quot;]/div[@class=&quot;v-list-item__content&quot;]/div[@class=&quot;v-list-item__title&quot;]</value>
-      <webElementGuid>05e34ee3-ebcb-4863-ae19-0a1cb6cdcf37</webElementGuid>
+      <webElementGuid>e4b6c375-b343-411a-94dc-8df6ede67392</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='app']/div/main/div/div/nav/div/div[2]/div/div[2]/a/div/div</value>
-      <webElementGuid>32cea4b3-6876-4697-88fb-3c1307ea94b4</webElementGuid>
+      <value>//div[@id='app']/div/main/div/div/nav/div/div[2]/div[2]/div[2]/a/div/div</value>
+      <webElementGuid>b39c104d-9b3f-4106-ad46-081cd384bf00</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -62,15 +62,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Kelas'])[1]/following::div[4]</value>
-      <webElementGuid>527b60f6-6ca1-41ac-89e4-8bfe3a244608</webElementGuid>
+      <webElementGuid>91e82a19-76e0-436a-a3fb-ec51b86ecf9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Member'])[1]/following::div[9]</value>
-      <webElementGuid>3c546dcf-12fa-491f-8dec-b5af5d422bca</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Membership'])[1]/following::div[9]</value>
+      <webElementGuid>074a4e8b-5f19-4242-ae1a-b115bfa2448f</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -78,15 +78,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Online'])[1]/preceding::div[1]</value>
-      <webElementGuid>793e7bd1-bf6e-4508-b6a9-b6dc3e8cc498</webElementGuid>
+      <webElementGuid>1f3dae25-4c81-4f3e-9270-68c0297fb492</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:neighbor</name>
       <type>Main</type>
-      <value>(.//*[normalize-space(text()) and normalize-space(.)='Data Pemesanan'])[1]/preceding::div[4]</value>
-      <webElementGuid>9e4af2ff-95ba-4931-b35f-8804ee4b1c7e</webElementGuid>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tipe Kelas'])[1]/preceding::div[3]</value>
+      <webElementGuid>b0b37841-3480-41b4-b7ca-95c1201023b0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,15 +94,15 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Offline']/parent::*</value>
-      <webElementGuid>34d3f744-7ba0-444e-88c9-51c834b8ba43</webElementGuid>
+      <webElementGuid>35c10590-db5f-4c7b-a1f8-0dcf1044943e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div[2]/div/div[2]/a/div/div</value>
-      <webElementGuid>b757330f-e79c-4407-ae7e-54fe0ea2a723</webElementGuid>
+      <value>//div[2]/div[2]/a/div/div</value>
+      <webElementGuid>cb389d53-4661-438a-b22d-703f4ee2b0d4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -110,6 +110,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = ' Offline ' or . = ' Offline ')]</value>
-      <webElementGuid>ca2d6ebf-a409-4640-83ec-bd63851ef9c9</webElementGuid>
+      <webElementGuid>33fca34c-9599-4406-b6b1-fb8de03b8caa</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

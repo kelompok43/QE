@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<TestCaseEntity>
-   <description></description>
-   <name>TC036_Add New Offline Class without start time</name>
-   <tag></tag>
-   <comment></comment>
-   <testCaseGuid>991614ab-4475-4375-9362-ebfe59ed32a4</testCaseGuid>
-</TestCaseEntity>
